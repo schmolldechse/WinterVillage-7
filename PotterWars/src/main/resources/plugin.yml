@@ -1,0 +1,13 @@
+name: PotterWars
+version: 7.3-RELEASE
+author: Voldechse
+
+main: de.voldechse.wintervillage.potterwars.PotterWars
+api-version: 1.20
+commands:
+  admin:
+  build:
+  pause:
+  revive:
+  settime:
+  start:

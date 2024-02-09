@@ -1,0 +1,9 @@
+name: Test
+author: Voldechse
+main: de.voldechse.wintervillage.test.Test
+version: 1.0
+api-version: '1.20'
+softdepend:
+  - Chunky
+commands:
+  world:

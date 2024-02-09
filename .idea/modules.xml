@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wintervillage.iml" filepath="$PROJECT_DIR$/wintervillage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aura/wintervillage-aura.iml" filepath="$PROJECT_DIR$/Aura/wintervillage-aura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/wintervillage-library.iml" filepath="$PROJECT_DIR$/Library/wintervillage-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hauptplugin/wintervillage-mainserver.iml" filepath="$PROJECT_DIR$/Hauptplugin/wintervillage-mainserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MasterBuilders/wintervillage-masterbuilders.iml" filepath="$PROJECT_DIR$/MasterBuilders/wintervillage-masterbuilders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PotterWars/wintervillage-potterwars.iml" filepath="$PROJECT_DIR$/PotterWars/wintervillage-potterwars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/wintervillage-proxy.iml" filepath="$PROJECT_DIR$/Proxy/wintervillage-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/wintervillage-test.iml" filepath="$PROJECT_DIR$/Test/wintervillage-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TroubleInTerroristTown/wintervillage-ttt.iml" filepath="$PROJECT_DIR$/TroubleInTerroristTown/wintervillage-ttt.iml" />
+    </modules>
+  </component>
+</project>
